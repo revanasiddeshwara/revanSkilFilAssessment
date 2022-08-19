@@ -1,0 +1,72 @@
+.main-page {
+  background-color: cadetblue;
+  background-size: cover;
+}
+.details-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.heading {
+  font-family: "roboto";
+  font: size 40px;
+  text-decoration: underline;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+}
+
+.image {
+  height: 600px;
+  width: 400px;
+  margin: 10px;
+}
+
+.title {
+  font-family: "roboto";
+  font-size: 30px;
+  color: black;
+  margin: 5px;
+}
+.details {
+  font-family: "roboto";
+  font-size: 15px;
+  color: black;
+  margin: 5px;
+  font-weight: bold;
+}
+.description {
+  font-family: "roboto";
+  font-size: 17px;
+  color: black;
+  margin: 5px;
+  text-align: justify;
+}
+
+.description-heading {
+  font-weight: bold;
+}
+
+.button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 20px;
+}
+.trailerButton {
+  height: 25px;
+  width: 100px;
+  background-color: coral;
+  border-radius: 10px;
+  border: none;
+}
+
+.playButton {
+  height: 25px;
+  width: 100px;
+  background-color: darkorange;
+  border-radius: 10px;
+  border: none;
+}
