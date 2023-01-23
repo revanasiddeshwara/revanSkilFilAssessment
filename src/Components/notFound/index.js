@@ -7,6 +7,7 @@ const NotFound = () => (
       className="image"
       alt=""
     />
+	<h1>THis page is not found</h1>
   </div>
 );
 
