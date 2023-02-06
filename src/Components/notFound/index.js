@@ -9,7 +9,11 @@ const NotFound = () => (
     />
 	<h1>THis page is not found</h1>
 	<p>Please try after some time</p>
+<<<<<<< Updated upstream
 	<p>keep trying , we connect for sure</p>
+=======
+	<p>added third sentence branch</p>
+>>>>>>> Stashed changes
   </div>
 );
 
